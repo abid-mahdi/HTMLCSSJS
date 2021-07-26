@@ -1,0 +1,13 @@
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Asul-Regular
+font link: https://fonts.google.com/specimen/Asul
+font author: Mariela Monsalve
+font author site: http://www.mukamonsalve.com.ar/
+
+icon designer: Gregor Cresnar
+icon designer link: /grega.cresnar        
+
+fontColor: {"hex":"#DD3F3F"}
+bgColor: {"hex":"#000000"}
+iconColor: {"hex":"#DD3F3F"}    
