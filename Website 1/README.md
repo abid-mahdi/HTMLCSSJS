@@ -10,4 +10,4 @@ Features:
 
 The logo was created on Namecheap. The images are sample stock images.
 
-![website1-mobile](screenshots/website1-mobile.jpg)
+![website1-mobile](/screenshots/website1-mobile.jpg)
